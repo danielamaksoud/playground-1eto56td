@@ -3,7 +3,9 @@
 This Python template lets you get started quickly with a simple one-page playground.
 
 ```python runnable
-print('Hello World!')
+q = ((10**2)**2)*54;
+
+print(q);
 ```
 
 # Advanced usage
